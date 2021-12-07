@@ -5,6 +5,7 @@ body{
 	width: 100%;
 	padding: 0;
 	margin: 0;
+	
 }
 .content{
 	width: 920px;
@@ -44,7 +45,8 @@ body{
 	}	 
 	p{
 		font-family: sans-serif;
-		letter-spacing: 1px;
+		letter-spacing: 0.001em;
+		
 	}
 	code{
 		background:#f0e6d6;
